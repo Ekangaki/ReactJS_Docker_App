@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome To Ashok IT...!!
+          WELCOME TO AFRO INSTISTUTE OF TECNOLOGY (AIT)...!!
         </p>
         <a
           className="App-link"
-          href="https://ashokitech.com/"
+          href="https://ekangaki.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-         Visit Our Website
+         Visit Afro IT Website
         </a>
       </header>
     </div>
